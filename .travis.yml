@@ -23,6 +23,6 @@ after_script:
 - travis-artifacts upload --target-path latest --path parts/test
 env:
   global:
-  - ARTIFACTS_S3_BUCKET=plone.app.angularjs
+  - ARTIFACTS_S3_BUCKET=plone-app-angularjs
   - secure: UCiLZczGYwCt0fr1DXYQ9X6aU1R/Y/dM2ocnyLNZ63fdE3UCzg6pUJCw+sVVlECsa1KSB4k6breSqr4km0pUy+SnOH7kd5XFGbGzGq5UW8XC+Z0sRUfVllj+7V1B9jlfs7b85BTnQB3FarEVB8TgGnCRL1Iiw5QT+C4HIKSI0bk=
   - secure: e0JB0JL7Z/KdaUAwpsX+8Swv5s7yVdhXI97zca6ryR50hqKYyBOQ+6Ay8UdWwVIZKgk65rB20AnuC2+0Mk4CPWtVFOjvkWJDQj6S3ULvAo8adF2+VJLm7T/PME0Co/l6373eUcIFf3DlOOd9zBM7cVnxDS3FtZdWT6iBsZlwbfs=
