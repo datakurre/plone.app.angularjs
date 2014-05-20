@@ -24,5 +24,5 @@ after_script:
 env:
   global:
   - ARTIFACTS_S3_BUCKET=plone.app.angularjs
-  - secure: VZGqP+9gojK9JPyNp0CEEfvJqe+k7cqoQtzr1fBQq0LGh6EP2qneBbT5ZuFzcjh3XOLlNPnyDST8ixl4J4qhJH9z4C3bPxL9t+xdDDFuRqkp3w174PQzhl8dJ6NT/gN3v+y+LoDrV49MCKrQ33arsJ14rQ9zTA9t3H9JEPJq+5A=
-  - secure: ZFEgbFb0ILTEYB+xx//mO8SCkHmrrB5aMIeV3JvFa+SxJymdpNysIKBxVq2AY6na2vH9ozVky3lkKgiixSmyasivOBAVo/pap1l3SXJBClLqVPqvhJzA4ILX5Wpe2s36uQVPB+thDh9X03Gzopj1a/TU2ycjf1icUbExVwyp+do=
+  - secure: UCiLZczGYwCt0fr1DXYQ9X6aU1R/Y/dM2ocnyLNZ63fdE3UCzg6pUJCw+sVVlECsa1KSB4k6breSqr4km0pUy+SnOH7kd5XFGbGzGq5UW8XC+Z0sRUfVllj+7V1B9jlfs7b85BTnQB3FarEVB8TgGnCRL1Iiw5QT+C4HIKSI0bk=
+  - secure: e0JB0JL7Z/KdaUAwpsX+8Swv5s7yVdhXI97zca6ryR50hqKYyBOQ+6Ay8UdWwVIZKgk65rB20AnuC2+0Mk4CPWtVFOjvkWJDQj6S3ULvAo8adF2+VJLm7T/PME0Co/l6373eUcIFf3DlOOd9zBM7cVnxDS3FtZdWT6iBsZlwbfs=
